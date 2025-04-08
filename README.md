@@ -6,7 +6,7 @@
 
 ## ⚔️ **Qui suis-je ?**
 
-Je suis un **développeur passionné**, un **ingénieur logiciel**, un **architecte d'applications** et un **hacker** cherchant à repousser les limites de la technologie, tout comme l'humanité se bat contre les titans. 
+Je suis une développeuse passionnée, une ingénieure logicielle, une architecte d'applications et une hacker cherchant à repousser les limites de la technologie, tout comme l'humanité se bat contre les titans. 
 
 ### 🧠 Compétences Techniques
 
