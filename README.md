@@ -55,6 +55,12 @@ Je suis un **développeur passionné**, un **ingénieur logiciel**, un **archite
 ## 🛠️ **Projets en cours et terminés**
 
 ### 🩸 Heme Biotech 
+### 🩸 Heme Biotech  
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Projet réalisé dans le cadre de...
+
 📌 **Statut :** 🟢 En cours ** 💤 En pause  
 [🔗 Accéder au repo](https://github.com/tonpseudo/nom-du-repo)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
