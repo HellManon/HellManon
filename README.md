@@ -1,7 +1,6 @@
 # 👾 **Bienvenue dans mon Univers GitHub** 👾
 
-([https://www.gamekult.com/jeux/a-o-t-wings-of-freedom-3050521287/test.html](https://oniri-creations.com/wp-content/uploads/2022/05/banniere-Mikasa-copie.png)
-(https://oniri-creations.com/wp-content/uploads/2022/05/banniere-Mikasa-copie.png) <!-- Remplacer par une image d'ambiance sombre liée à l'attaque des titans -->
+![Shingeki no Kyojin]([images/attack-on-titan-banner.jpg](https://github.com/HellManon/HellManon/blob/main/banniere-Mikasa-copie.png))
 
 ---
 
