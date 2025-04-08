@@ -1,6 +1,6 @@
 # 👾 **Bienvenue dans mon Univers GitHub** 👾
 
-![Shingeki no Kyojin](https://example.com/attack-on-titan-banner.jpg) <!-- Remplacer par une image d'ambiance sombre liée à l'attaque des titans -->
+![Shingeki no Kyojin]([https://example.com/attack-on-titan-banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamekult.com%2Fjeux%2Fa-o-t-wings-of-freedom-3050521287%2Ftest.html&psig=AOvVaw1enKAx8siEO3t7MfzhJDx9&ust=1744215795886000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiris3syIwDFQAAAAAdAAAAABBd)) <!-- Remplacer par une image d'ambiance sombre liée à l'attaque des titans -->
 
 ---
 
@@ -54,62 +54,61 @@ Je suis un **développeur passionné**, un **ingénieur logiciel**, un **archite
 
 ## 🛠️ **Projets en cours et terminés**
 
-### 🩸 Heme Biotech 
-### 🩸 Heme Biotech  
-![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat-square)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### 🖥️ Portfolio - Site vitrine interactif
 
-Projet réalisé dans le cadre de...
+**Date :** Mars 2025 - Aujourd'hui  
+**Statut :** [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com/)  
+**Accessible en ligne :** [Voir le portfolio en ligne](https://ton-lien.github.io)
 
-📌 **Statut :** 🟢 En cours ** 💤 En pause  
-[🔗 Accéder au repo](https://github.com/tonpseudo/nom-du-repo)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Ce projet est mon portfolio en ligne, conçu pour mettre en avant mon parcours, mes compétences techniques et mes réalisations. Plus qu'un simple site vitrine, il s'agit d'une démonstration concrète de mon savoir-faire en développement web. Accessible à tous, il me permet d’accroître ma visibilité et d’offrir un aperçu interactif de mes compétences en action.
 
-Projet réalisé dans le cadre de ma formation en développement Java, visant à corriger et optimiser une application d’analyse de tendances médicales.
+Le site est développé avec **React** pour une expérience fluide et dynamique. La mise en page est optimisée avec **Bootstrap**, garantissant une interface moderne et responsive. Le projet est hébergé sur **GitHub Pages**, facilitant ainsi sa mise à jour et son accessibilité.
 
-**Objectifs :**
-- 🔍 Analyse & compréhension du code existant
-- 🛠 Correction des bugs et refactorisation orientée objet
-- 📄 Documentation technique et fonctionnelle
-- ✅ Soutenance auprès d’une "directrice technique"
+#### Environnement technique :
+- **Langages & Frameworks :** JavaScript, React, HTML5, CSS3, Bootstrap  
+- **Outils & Environnements :** Windows 10, VS Code, GitHub, GitHub Pages
 
-**Environnement technique :**
-- OS : Windows 10  
-- IDE : Visual Studio Code  
-- Langage : Java (Java SE)  
-- Versioning : Git, GitHub
+**Lien vers le projet :** [Votre Lien GitHub Repo ici](https://github.com/)  
 
 ---
 
-### 🅿️ Park’it
-[🔗 Accéder au repo](https://github.com/tonpseudo/nom-du-repo)
-📌 **Statut :** ✅ Terminé 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-C21325?style=flat-square)
+### 💸 Pay My Buddy  
+![Statut](https://img.shields.io/badge/Statut-En%20pause-lightgrey?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+🔗 [Lien du repo](https://github.com/tonpseudo/PAY-MY-BUDDY)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-Optimisation et débogage d’une application de gestion de stationnement avec ajout de règles tarifaires dynamiques.
+Application de gestion de paiement entre amis avec front-end responsive et back-end sécurisé.
 
 **Objectifs :**
-- 🧠 Implémentation de la gratuité 30 min & réductions
-- 🧪 Tests unitaires & couverture ≥ 70 %
-- 📄 Documentation technique complète
-- ✅ Soutenance auprès d’un mentor technique
+- 🧱 Modélisation UML & base de données
+- 💾 Transactions SQL (commit/rollback)
+- 🔐 Sécurisation de la couche back-end Java
+- 🎨 Interface web avec Bootstrap
 
 **Environnement technique :**
-- OS : Windows 10  
-- IDE : Visual Studio Code  
-- Langage : Java  
-- Tests : JaCoCo, SureFire  
+- Langages : Java, SQL  
+- Frameworks : Spring Boot, Bootstrap  
+- BDD : MySQL  
 - Versioning : Git, GitHub
 
 ---
 
-### 🚨 SafetyNet Alerts
-[🔗 Accéder au repo](https://github.com/tonpseudo/nom-du-repo)
-📌 **Statut :** ✅ Terminé 
+### 🚨 SafetyNet Alerts  
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+![JUnit](https://img.shields.io/badge/Tests-JUnit-red?style=flat-square)
+
+🔗 [Lien du repo](https://github.com/tonpseudo/SAFETYNET-ALERTS)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
@@ -133,27 +132,27 @@ Développement du backend d’une application d’alerte d’urgence pour les se
 
 ---
 
-### 💸 Pay My Buddy 
-[🔗 Accéder au repo](https://github.com/tonpseudo/nom-du-repo)
-📌 **Statut :** 💤 En pause
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### 🚗 Park’it  
+![Statut](https://img.shields.io/badge/Statut-Terminé-brightgreen?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
+![JaCoCo](https://img.shields.io/badge/Tests-JaCoCo-yellow?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-C21325?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-Application de gestion de paiement entre amis avec front-end responsive et back-end sécurisé.
+Optimisation et débogage d’une application de gestion de stationnement avec ajout de règles tarifaires dynamiques.
 
 **Objectifs :**
-- 🧱 Modélisation UML & base de données
-- 💾 Transactions SQL (commit/rollback)
-- 🔐 Sécurisation de la couche back-end Java
-- 🎨 Interface web avec Bootstrap
+- 🧠 Implémentation de la gratuité 30 min & réductions
+- 🧪 Tests unitaires & couverture ≥ 70 %
+- 📄 Documentation technique complète
+- ✅ Soutenance auprès d’un mentor technique
 
 **Environnement technique :**
-- Langages : Java, SQL  
-- Frameworks : Spring Boot, Bootstrap  
-- BDD : MySQL  
+- OS : Windows 10  
+- IDE : Visual Studio Code  
+- Langage : Java  
+- Tests : JaCoCo, SureFire  
 - Versioning : Git, GitHub
 
 ---
@@ -186,12 +185,6 @@ Application de gestion de paiement entre amis avec front-end responsive et back-
 ## 🎯 **Contactez-moi**
 
 N'hésitez pas à me contacter ou à m'envoyer un message si vous avez un projet ou une collaboration en tête. Comme les soldats, je suis toujours prêt à relever de nouveaux défis !
-
----
-
-## 📢 **Abonnez-vous !**
-
-Suivez mon GitHub et mes projets pour recevoir des mises à jour sur mes nouvelles créations. L'aventure ne fait que commencer !
 
 ---
 
