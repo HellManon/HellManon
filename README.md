@@ -1,6 +1,6 @@
 # 👾 **Bienvenue dans mon Univers GitHub** 👾
 
-![Shingeki no Kyojin]([images/attack-on-titan-banner.jpg](https://github.com/HellManon/HellManon/blob/main/banniere-Mikasa-copie.png))
+![Shingeki no Kyojin](https://github.com/HellManon/HellManon/blob/main/banniere-Mikasa-copie.png)
 
 ---
 
