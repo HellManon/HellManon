@@ -58,7 +58,7 @@ Je suis une développeuse passionnée, une ingénieure logicielle, une architect
 
 **Date :** Mars 2025 - Aujourd'hui  
 **Statut :** [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](https://github.com/)  
-**Accessible en ligne :** [Voir le portfolio en ligne](https://ton-lien.github.io)
+**Accessible en ligne :** [Voir le portfolio en ligne](https://hellmanon.github.io/Portfolio/)
 
 Ce projet est mon portfolio en ligne, conçu pour mettre en avant mon parcours, mes compétences techniques et mes réalisations. Plus qu'un simple site vitrine, il s'agit d'une démonstration concrète de mon savoir-faire en développement web. Accessible à tous, il me permet d’accroître ma visibilité et d’offrir un aperçu interactif de mes compétences en action.
 
@@ -68,7 +68,7 @@ Le site est développé avec **React** pour une expérience fluide et dynamique.
 - **Langages & Frameworks :** JavaScript, React, HTML5, CSS3, Bootstrap  
 - **Outils & Environnements :** Windows 10, VS Code, GitHub, GitHub Pages
 
-**Lien vers le projet :** [Votre Lien GitHub Repo ici](https://github.com/)  
+**Lien vers le projet :** [Votre Lien GitHub Repo ici](https://github.com/HellManon/Portfolio))  
 
 ---
 
@@ -79,7 +79,7 @@ Le site est développé avec **React** pour une expérience fluide et dynamique.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-🔗 [Lien du repo](https://github.com/tonpseudo/PAY-MY-BUDDY)
+🔗 [Lien du repo](https://github.com/HellManon/FO_JAVA_P06)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -108,7 +108,7 @@ Application de gestion de paiement entre amis avec front-end responsive et back-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
 ![JUnit](https://img.shields.io/badge/Tests-JUnit-red?style=flat-square)
 
-🔗 [Lien du repo](https://github.com/tonpseudo/SAFETYNET-ALERTS)
+🔗 [Lien du repo](https://github.com/HellManon/FO_JAVA_P05)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
@@ -141,7 +141,7 @@ Développement du backend d’une application d’alerte d’urgence pour les se
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 Optimisation et débogage d’une application de gestion de stationnement avec ajout de règles tarifaires dynamiques.
-
+🔗 [Lien du repo](https://github.com/HellManon/FO_JAVA_P04)
 **Objectifs :**
 - 🧠 Implémentation de la gratuité 30 min & réductions
 - 🧪 Tests unitaires & couverture ≥ 70 %
